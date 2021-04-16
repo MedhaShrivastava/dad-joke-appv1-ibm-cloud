@@ -1,0 +1,7 @@
+applications:
+  - name: my-app-name
+memory: 64M
+path: build/
+buildpack: staticfile_buildpack 
+routes:
+  - route: route.server.cf.appdomain.cloud
