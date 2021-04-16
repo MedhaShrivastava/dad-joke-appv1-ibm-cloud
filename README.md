@@ -2,7 +2,7 @@
 
 Simple ReactJS application used for deploying ReactJS application into [IBM Cloud](https://ibm.biz/ibm-cloud-dashboard-bradstondev)
 
-Based on a blog/tutorial published on dev.to called [Deploying your first ReactJS application into the Cloud]()
+Based on a blog/tutorial published on dev.to called [Deploying your first ReactJS application into the Cloud](https://dev.to/ibmdeveloper/deploying-your-first-reactjs-application-into-the-cloud-31je)
 
 ## Prerequisites for deploying into IBM Cloud
 
@@ -30,4 +30,4 @@ name: my-app-name
 - route: route.server.cf.appdomain.cloud
 ```
 
-Feel free to submit pull requests if 
+Feel free to submit pull requests if you see any improvements that could me made to this code and leave comments or creat issues if you have any problems.
