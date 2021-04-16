@@ -2,7 +2,7 @@
 
 Simple ReactJS application used for deploying ReactJS application into [IBM Cloud](https://ibm.biz/ibm-cloud-dashboard-bradstondev)
 
-Based on a blog/tutorial published on dev.to called [Deploying your first ReactJS application into the Cloud](https://dev.to/ibmdeveloper/deploying-your-first-reactjs-application-into-the-cloud-31je)
+Based on a blog/tutorial published on dev.to called [Deploying your first ReactJS application into the Cloud](https://ibm.biz/deploying-react-app-in-cloud-devto-bradstondev)
 
 ## Prerequisites for deploying into IBM Cloud
 
