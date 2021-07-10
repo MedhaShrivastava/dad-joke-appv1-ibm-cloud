@@ -1,7 +1,7 @@
 applications:
-  - name: my-app-name
+  - name: Dad-joke-example
 memory: 64M
 path: build/
 buildpack: staticfile_buildpack 
 routes:
-  - route: route.server.cf.appdomain.cloud
+  dad-joke-example.eu-gb.cf.appdomain.cloud
